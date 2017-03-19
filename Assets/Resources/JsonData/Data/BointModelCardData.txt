@@ -1,0 +1,11 @@
+﻿{
+"data":
+[{"ID":"101","Name":"小兵","ModeName":"Dogface","HP":"100","AttackValue":"1","MoveSpeed":"0.5","SeekDistance":"2","Skills":[1001,1002,1001]},
+{"ID":"102","Name":"速度兵","ModeName":"SpeedSoldier","HP":"50","AttackValue":"1","MoveSpeed":"2","SeekDistance":"2","Skills":[1001,1002,1001]},
+{"ID":"103","Name":"坦克兵","ModeName":"TankSoldier","HP":"300","AttackValue":"0.5","MoveSpeed":"0.5","SeekDistance":"2","Skills":[1001,1002,1001]},
+{"ID":"104","Name":"爆破兵","ModeName":"BurstSoldier","HP":"100","AttackValue":"2","MoveSpeed":"1","SeekDistance":"2","Skills":[1001,1002,1001]},
+{"ID":"201","Name":"哨岗","ModeName":"PostTower","HP":"100","AttackValue":"1","MoveSpeed":"0","SeekDistance":"10","Skills":[1001,1002,1002]},
+{"ID":"202","Name":"爆裂弹","ModeName":"BurstTower","HP":"200","AttackValue":"3","MoveSpeed":"0","SeekDistance":"2","Skills":[1001,1002,1003]},
+{"ID":"203","Name":"疾风塔","ModeName":"GaleTower","HP":"200","AttackValue":"0.5","MoveSpeed":"0","SeekDistance":"2","Skills":[1001,1002,1004]},
+{"ID":"204","Name":"熔岩光束","ModeName":"RocMagmaTower","HP":"100","AttackValue":"1","MoveSpeed":"0","SeekDistance":"2","Skills":[1001,1002,1005]}]
+}

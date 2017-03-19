@@ -1,0 +1,7 @@
+﻿{
+"data":
+[{"ID":"1001","MapId":"10001","ConditionContent":"{CD:1,Camp:1,Data:{Condition:Distance,Value:3,CompareValue:0}}"},
+{"ID":"1002","MapId":"10002","ConditionContent":"{CD:1,Camp:1,Data:{Condition:Distance,Value:3,CompareValue:0}}"},
+{"ID":"1003","MapId":"10003","ConditionContent":"{CD:1,Camp:1,Data:{Condition:Distance,Value:3,CompareValue:0}}"},
+{"ID":"1004","MapId":"10004","ConditionContent":"{CD:1,Camp:1,Data:{Condition:Distance,Value:3,CompareValue:0}}"}]
+}
